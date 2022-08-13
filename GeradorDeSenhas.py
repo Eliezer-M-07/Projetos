@@ -21,7 +21,6 @@ while True:
         print('\nSUA SENHA:')
         for i in senha:
             print(i,end='')
-            
         break
 
     else:
